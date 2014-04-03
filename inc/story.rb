@@ -4,9 +4,9 @@ class StoryTeller
 
         welcome = <<-MESSAGE
         ---------------------------------------
-        would you like to read about #{@title}?
+            would you like to read about #{@title}?
         ---------------------------------------
-        [Y] / [N]
+            [Y] / [N]
         MESSAGE
 
         puts welcome
