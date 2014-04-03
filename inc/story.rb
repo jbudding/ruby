@@ -26,4 +26,4 @@ class StoryTeller
     end
 end
 
-s = StoryTeller.new("Bailey's run")
+s = StoryTeller.new("Bailey's Gun")
